@@ -9,14 +9,43 @@ function Home() {
             <Banner/>
 
             <div className="home__section">
-                <Card/>
-                <Card/>
-                <Card/>
+                <Card 
+                    src="https://news.airbnb.com/wp-content/uploads/sites/4/2019/06/PJM020719Q202_Luxe_WanakaNZ_LivingRoom_0264-LightOn_R1.jpg"
+                    title="Online Experiences"
+                    description="Unique activities we can do together, led by a world of hosts"
+                />
+               <Card 
+                    src="https://news.airbnb.com/wp-content/uploads/sites/4/2019/06/PJM020719Q202_Luxe_WanakaNZ_LivingRoom_0264-LightOn_R1.jpg"
+                    title="Online Experiences"
+                    description="Unique activities we can do together, led by a world of hosts"
+                />
+                <Card 
+                    src="https://news.airbnb.com/wp-content/uploads/sites/4/2019/06/PJM020719Q202_Luxe_WanakaNZ_LivingRoom_0264-LightOn_R1.jpg"
+                    title="Online Experiences"
+                    description="Unique activities we can do together, led by a world of hosts"
+                />
             </div>
             <div className="home__section">
-                <Card/>
-                <Card/>
-                <Card/>
+                <Card 
+                    src="https://news.airbnb.com/wp-content/uploads/sites/4/2019/06/PJM020719Q202_Luxe_WanakaNZ_LivingRoom_0264-LightOn_R1.jpg"
+                    title="Online Experiences"
+                    description="Unique activities we can do together, led by a world of hosts"
+                    price="$300/night"
+                />
+                <Card 
+                    src="https://news.airbnb.com/wp-content/uploads/sites/4/2019/06/PJM020719Q202_Luxe_WanakaNZ_LivingRoom_0264-LightOn_R1.jpg"
+                    title="Online Experiences"
+                    description="Unique activities we can do together, led by a world of hosts"
+                    price="$300/night"
+
+                />
+                <Card 
+                    src="https://news.airbnb.com/wp-content/uploads/sites/4/2019/06/PJM020719Q202_Luxe_WanakaNZ_LivingRoom_0264-LightOn_R1.jpg"
+                    title="Online Experiences"
+                    description="Unique activities we can do together, led by a world of hosts"
+                    price="$300/night"
+
+                />
             </div>
         </div>
 
